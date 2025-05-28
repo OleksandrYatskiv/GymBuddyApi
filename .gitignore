@@ -1,0 +1,85 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish results
+*.Publish.xml
+*.pubxml
+*.publishproj
+
+# Visual Studio
+.vscode/
+.vs/
+*.code-workspace
+
+# Rider
+.idea/
+
+# Resharper
+*.DotSettings.user
+
+# User-specific files
+*.userprefs
+*.sln.ide
+
+# Build results
+*.dll
+*.exe
+*.app
+*.log
+*.cache
+
+# Temporary files
+~$*
+*.tmp
+*.bak
+*.swp
+
+# Logs
+*.log
+
+# Auto-generated secrets
+secrets.json
+
+# Dotnet tools
+**/.store/
+**/.tools/
+**/.template.config/
+
+# Database files
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Environment files
+.env
+
+# Node (if using frontend)
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: if using Blazor or Razor Components
+wwwroot/
+
+# JetBrains Rider
+.idea/
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+.trx

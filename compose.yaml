@@ -1,0 +1,7 @@
+﻿services:
+  gymbuddyapi:
+    image: gymbuddyapi
+    build:
+      context: .
+      dockerfile: GymBuddyApi/Dockerfile
+
