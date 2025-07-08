@@ -4,3 +4,6 @@ GET {{GymBuddyApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
+
+POST {{GymBuddyApi_HostAddress}}/api/Auth/register
+Accept: application/json
